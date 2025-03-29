@@ -97,7 +97,7 @@ python app.py
 ```
 
 ### Access the Deployed App (once hosted)
-[Live Demo](#) *(Replace with hosted link)*
+[Live Demo]("ai-travel-itinerary-planner-gvnnh5vakrzry9phs2b9kz") *(Replace with hosted link)*
 
 ---
 
