@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: url('../static/ai.jpg') no-repeat center center fixed;
+    
+    background-size: cover;
+    text-align: center;
+    color: #ff165d;
+    margin: 0;
+    padding: 0;
+}
+
+/* Title Styling   */
+h1 {
+    font-size: 2.5rem;
+    margin-top: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Form Styling */
+form {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    margin: 20px auto;
+    backdrop-filter: blur(10px);
+    width: 50%;
+}
+
+input {
+    width: 90%;
+    padding: 12px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+button {
+    background: linear-gradient(to right, #ff477e, #ff165d);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: linear-gradient(to right, #ff165d, #ff477e);
+}
+
+/* Result Styling */
+#result {
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.3);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    backdrop-filter: blur(10px);
+    width: 60%;
+}

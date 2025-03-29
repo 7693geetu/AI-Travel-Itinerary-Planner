@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Travel Planner</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Plan Your Trip</h1>
+    <form id="travel-form">
+        <input type="text" id="destination" placeholder="Destination" required>
+        <input type="number" id="days" placeholder="Trip Duration (Days)" required>
+        <input type="text" id="budget" placeholder="Budget (Low/Moderate/High)" required>
+        <button type="submit">Get Itinerary</button>
+    </form>
+    <div id="result"></div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
