@@ -100,10 +100,6 @@ python app.py
 [Live Demo](https://ai-travel-itinerary-planner-gvnnh5vakrzry9phs2b9kz.streamlit.app)
 
 
-![Travel Planner Output](https://raw.githubusercontent.com/7693geetu/AI-Travel-Itinerary-Planner/main/ai2.png)
-
-
-
 ## ✨ Future Enhancements
 🔹 Add support for **multi-user session handling**.
 🔹 Integrate **Google Maps API** for location-based suggestions.
