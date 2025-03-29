@@ -97,9 +97,8 @@ python app.py
 ```
 
 ### Access the Deployed App (once hosted)
-[Live Demo]("https://ai-travel-itinerary-planner-gvnnh5vakrzry9phs2b9kz.streamlit.app") *(Replace with hosted link)*
+[Live Demo](https://ai-travel-itinerary-planner-gvnnh5vakrzry9phs2b9kz.streamlit.app)
 
----
 
 ## ✨ Future Enhancements
 🔹 Add support for **multi-user session handling**.
