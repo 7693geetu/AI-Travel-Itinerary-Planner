@@ -1,4 +1,4 @@
-# AI Travel Itinerary Planner
+## AI Travel Itinerary Planner
 
 ## 🌍 Objective
 Building an AI-powered travel planner that assists travelers in planning their trips and inquiries, ultimately generating a personalized travel itinerary.
@@ -98,6 +98,10 @@ python app.py
 
 ### Access the Deployed App (once hosted)
 [Live Demo](https://ai-travel-itinerary-planner-gvnnh5vakrzry9phs2b9kz.streamlit.app)
+
+
+![Travel Planner Output](https://raw.githubusercontent.com/7693geetu/AI-Travel-Itinerary-Planner/main/ai2.png)
+
 
 
 ## ✨ Future Enhancements
